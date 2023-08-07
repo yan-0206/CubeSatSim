@@ -9,6 +9,8 @@ from time import sleep
 import sys
 from os import system
 
+#defined a random number for RF(22 spots);
+
 print("CubeSatSim v1.1 rpitx.py starting...")
 
 GPIO.setmode(GPIO.BCM)
